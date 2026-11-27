@@ -18,12 +18,12 @@ basic version
 ### log
 show logs
 <br>
-![pic](pic/ver1.jpg)<br>
+![pic](pic/ver2.jpg)<br>
 <br>
 ### auto read
 auto read 
 <br>
-![pic](pic/ver1.jpg)<br>
+![pic](pic/ver3.jpg)<br>
 <br>
 
 ## how to use for android studio 
